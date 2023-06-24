@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:  url('/fonts/icomoon.eot?zherc8');
-	src:  url('/fonts/icomoon.eot?zherc8#iefix') format('embedded-opentype'),
-		url('/fonts/icomoon.ttf?zherc8') format('truetype'),
-		url('/fonts/icomoon.woff?zherc8') format('woff'),
-		url('/fonts/icomoon.svg?zherc8#icomoon') format('svg');
+	src:  url('../fonts/icomoon.eot?zherc8');
+	src:  url('../fonts/icomoon.eot?zherc8#iefix') format('embedded-opentype'),
+		url('../fonts/icomoon.ttf?zherc8') format('truetype'),
+		url('../fonts/icomoon.woff?zherc8') format('woff'),
+		url('../fonts/icomoon.svg?zherc8#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 	font-display: block;
@@ -223,7 +223,7 @@ main section.st-contacto {
 }
 /* Home */
 main section.st-home {
-	background-image: url('/images/fondo.webp');
+	background-image: url('../images/fondo.webp');
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
